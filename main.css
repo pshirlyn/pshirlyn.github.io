@@ -16,6 +16,12 @@ body{
 
 h2,.white{
     color: #fff;
+    margin-top: 0.2em;
+    margin-bottom: 1em;
+}
+
+h3 {
+    margin: 0;
 }
 
 a{
@@ -24,8 +30,8 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
-    padding-left: 20vw;
+    padding-top: 35vh;
+    padding-left: 5vw;
     text-align: center;
 }
 
@@ -64,14 +70,6 @@ a{
 .section-2 b{
   color: aliceblue;
 }
-
-/* .section-2 a{
-    display: block;
-    padding: 5px;
-    font-size: 1.2rem;
-    padding-left: 0;
-    width: 500px;
-} */
 
 /* media queres */
 @media(max-width:780px){
